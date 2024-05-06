@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Timer-Stopwatch/static/css/main.bf44a19b.css",
+    "main.js": "/Timer-Stopwatch/static/js/main.b840a0e6.js",
+    "static/js/453.9216e151.chunk.js": "/Timer-Stopwatch/static/js/453.9216e151.chunk.js",
+    "index.html": "/Timer-Stopwatch/index.html",
+    "main.bf44a19b.css.map": "/Timer-Stopwatch/static/css/main.bf44a19b.css.map",
+    "main.b840a0e6.js.map": "/Timer-Stopwatch/static/js/main.b840a0e6.js.map",
+    "453.9216e151.chunk.js.map": "/Timer-Stopwatch/static/js/453.9216e151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf44a19b.css",
+    "static/js/main.b840a0e6.js"
+  ]
+}
